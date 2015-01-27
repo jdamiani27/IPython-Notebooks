@@ -1,0 +1,8 @@
+
+*.osm
+
+*.json
+
+*.csv
+
+.ipynb_checkpoints
